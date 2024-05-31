@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I graduated from Boise State with a degree in Computer Science. A lot of my school projects can be found here.
-- Additionally, a number of hobby projects can be found here.\
+- Additionally, a number of hobby projects can be found here.
 
 Thanks for visiting
 <!--
